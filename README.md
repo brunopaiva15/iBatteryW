@@ -17,7 +17,7 @@ To get started, download the project on GitHub. Unzip the folder somewhere on yo
 
 ## 💿 Deployment
 
-To deploy and test the application, navigate to the folder /iBatteryW/bin/Debug/ and launch "iBatteryW.exe".
+To deploy and test the application, navigate to the folder /iBatteryW/bin/Debug/ and copy all the content of the "REQUIRED" folder on GitHub to the Debug folder. After that, launch "iBatteryW.exe".
 
 ## ✒ Authors
 
