@@ -22,6 +22,7 @@ To deploy and test the application, navigate to the folder /iBatteryW/bin/Debug/
 ## ✒ Authors
 
 * **Bruno Paiva** - https://brunopaiva.ch
+* **Devjam81** - https://github.com/Devjam81
 
 ## 📃 License
 
