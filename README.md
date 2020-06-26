@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/brunopaiva15/ibatteryw/badge)](https://www.codefactor.io/repository/github/brunopaiva15/ibatteryw)
+
 # iBatteryW
 
 iBatteryW is an Open source utility that allows you to display various information from your iPhone, iPad or iPod, in particular about their battery.
